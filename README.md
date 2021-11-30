@@ -6,7 +6,7 @@ In this competion we were are required to classify images of leafs (like the one
 
 ![example1](https://github.com/ManuelCecere/leaf-image-classification/blob/main/leaf-image-examples/leaves_example_1.png?raw=true) ![example2](https://github.com/ManuelCecere/leaf-image-classification/blob/main/leaf-image-examples/Leaves_example_2.png?raw=true)
 
-You can find the details of the competion on CodaLab: https://codalab.lisn.upsaclay.fr/competitions/226
+You can find the details and the dataset used for the competion on CodaLab: https://codalab.lisn.upsaclay.fr/competitions/226
 
 The repo contains a report where it's shortly present how my team, Polimi Dropouts, approached the challenge, which was our workflow and the issues we
 faced, how we decided to overcome some of them, and finally describe our best models, explaining the rationale of our
