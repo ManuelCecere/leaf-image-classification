@@ -12,4 +12,4 @@ The repo contains a report where it's shortly present how my team, Polimi Dropou
 faced, how we decided to overcome some of them, and finally describe our best models, explaining the rationale of our
 choice and the results they produced.
 
-The notebooks included contains the implementation of some of our most successfull models, MarkZuckerberg, SteveJobs and BillGates (sorry for the names, the pun with the name of the team was a moral obligation). The BalanceData notebook includes the code used for the preprocessing of the data.
+The notebooks included contains the implementation of some of our most successful models, MarkZuckerberg, SteveJobs and BillGates (sorry for the names, the pun with the name of the team was a moral obligation). The BalanceData notebook includes the code used for the preprocessing of the data.
