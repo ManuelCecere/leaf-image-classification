@@ -2,7 +2,7 @@
 
 This repository is a short description, with notebooks, of the DL Competition organized for the students of the course Artificial Neural Networks and Deep Learning, at Politecnico di Milano.
 
-In this competition we were are required to classify images of leafs (like the ones in the example image below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
+In this competition we were required to classify images of leaves (like the ones in the example image below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
 
 ![example1](https://github.com/ManuelCecere/leaf-image-classification/blob/main/leaf-image-examples/leaves_example_1.png?raw=true) ![example2](https://github.com/ManuelCecere/leaf-image-classification/blob/main/leaf-image-examples/Leaves_example_2.png?raw=true)
 
