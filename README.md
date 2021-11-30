@@ -4,7 +4,9 @@ This repository is a short description, with notebooks, of the DL Competition or
 
 In this competion we were are required to classify images of leafs (like the ones in the example image below), which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
 
+![example1](https://github.com/ManuelCecere/leaf-image-classification/blob/main/leaf-image-examples/leaves_example_1.png?raw=true)
 
+![example2](https://github.com/ManuelCecere/leaf-image-classification/blob/main/leaf-image-examples/Leaves_example_2.png?raw=true)
 
 You can find the details of the competion on CodaLab: https://codalab.lisn.upsaclay.fr/competitions/226
 
