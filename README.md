@@ -14,4 +14,4 @@ choice and the results they produced.
 
 The notebooks included contains the implementation of some of our most successful models, MarkZuckerberg, SteveJobs and BillGates (sorry for the names, the pun with the name of the team was a moral obligation). The BalanceData notebook includes the code used for the preprocessing of the data.
 
-Be careful when running the notebook. Often, also from the same author, the path to the folders (both for checkpoints, testing, or loading images) changes, due to the fact that we may run the notebook in a different environment. Please, adjust your folder path according to your system. We mainly used Google Colab with Google Drive
+Be careful when running the notebooks. Often, also from the same author, the path to the folders (both for checkpoints, testing, or loading images) changes, due to the fact that we may run the notebook in a different environment. Please, adjust your folder path according to your system. We mainly used Google Colab with Google Drive
